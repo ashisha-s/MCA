@@ -10,7 +10,7 @@ Click the links to view the source code.
 
 | Sl.No | Question | Code |
 |:-----:|-----------|------|
-| 1 | Write a program to get a string from the user and replace all occurrences of the first character with `$` except the first character. | [program1.py](program1.py) |
+| 1 | Write a program to get a string from the user and replace all occurrences of the first character with `$` except the first character. | [program1.py](Python Programming Lab/program1.py) |
 | 2 | Create a string from the given string where the first and last characters are exchanged. | [program2.py](program2.py) |
 
 ---
