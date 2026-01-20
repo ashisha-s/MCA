@@ -49,6 +49,7 @@ void diffSet(int A[], int B[], int D[]) {
         D[i] = (A[i] & (!B[i]));
 }
 
+//Main function
 int main() {
     int A[LEN], B[LEN], U[LEN], I[LEN], D[LEN];
     int choice;
@@ -95,4 +96,5 @@ int main() {
                 printf("Invalid choice!\n");
         }
     }
+
 }
