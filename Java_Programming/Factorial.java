@@ -8,6 +8,7 @@ public class Factorial {
             return n*findFact(n-1);
     
     }
+    //Main function
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
@@ -19,3 +20,4 @@ public class Factorial {
     }
     
 }
+
